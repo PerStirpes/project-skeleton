@@ -2,17 +2,6 @@
 
 The project description
 
-## Team
-
-- teamMember
-- teamMember
-- teamMember
-- teamMember
-
-## Roadmap
-
-View the project roadmap [here](LINK_TO_DOC)
-
 ## Contributing
 
 See [CONTRIBUTING.md](CONTRIBUTING.md) for contribution guidelines.
@@ -45,8 +34,6 @@ brew install yarn
 brew install redis
 brew install postgresql
 ```
-
-Yarn is a replacement for npm. It's faster and *guarantees* consistency -- as you deploy your code in various environments, you won't run the risk of slight variations in what gets installed.
 
 ### Install Project Dependencies
 
