@@ -50,26 +50,6 @@
     ```
 
 
-### Variable declaration
-
-* Use a new var statement for each line you declare a variable on.
-* Do not break variable declarations onto mutiple lines.
-* Use a new line for each variable declaration.
-* See http://benalman.com/news/2012/05/multiple-var-statements-javascript/ for more details
-
-    ```javascript
-    // good:
-    var ape;
-    var bat;
-
-    // bad:
-    var cat,
-        dog
-
-    // use sparingly:
-    var eel, fly;
-    ```
-
 ### Capital letters in variable names
 
 * Some people choose to use capitalization of the first letter in their variable names to indicate that they contain a [class](http://en.wikipedia.org/wiki/Class_(computer_science\)). This capitalized variable might contain a function, a prototype, or some other construct that acts as a representative for the whole class.
